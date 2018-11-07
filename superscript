@@ -1,0 +1,2 @@
+sh /home/pi/Documents/RPi_Cam_Web_Interface/start.sh >/home/pi/logs/cameralog 2>&1
+sudo python3 /home/pi/Documents/serversidepi/app.py
